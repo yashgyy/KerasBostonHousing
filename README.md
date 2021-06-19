@@ -1,2 +1,3 @@
 # KerasBostonHousing
-Regression using l1_l2 regularization and dropout
+
+Elastic Net Linear Regression in Keras to predict the Housing Prices of Boston
